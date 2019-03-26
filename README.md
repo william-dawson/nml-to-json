@@ -1,4 +1,4 @@
-################################################################################
+# ##############################################################################
 # nml-to-json
 
 The purpose of this library is to convert Fortran namelist files to a JSON 
@@ -12,3 +12,5 @@ that kind of functionality, I recommend using the python library
 unique thing about this library is that it is written in Fortran and
 returns a string as a result. This will allow you to easily add this to
 any Fortran code, and use it to pass strings to JSON parsing libraries.
+
+## Compilation
