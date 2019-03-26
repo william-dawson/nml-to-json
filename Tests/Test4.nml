@@ -1,0 +1,8 @@
+&option
+  integer = 5, logical=F, character = "hello world",float=3.0,
+/
+
+&option2
+  list = 1 2 3, character2 = "1 2 3 4",
+  list2 = 3 4 5
+/

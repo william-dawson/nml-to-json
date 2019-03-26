@@ -1,0 +1,6 @@
+&option
+  integer = 5,
+  logical = F,
+  character = "hello world",
+  float = 3.0
+/
