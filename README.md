@@ -17,13 +17,17 @@ any Fortran code, and use it to pass strings to JSON parsing libraries.
 
 You can compile the code with the standard ``cmake`` procedure.
 
-> cd Build
-> cmake ..
-> make
+```
+cd Build
+cmake ..
+make
+```
 
 And you can also test the package using ``cmake``:
 
-> make test
+```
+make test
+```
 
 Tests require ``f90nml`` and ``json`` packages for python which are used to
 generate the reference data. Of course, you might just want to add the
